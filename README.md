@@ -1,6 +1,6 @@
 <h1>Інструкція:</h1>
 
-1. Завантажте скріпт командою $wget https://github.com/tkachovua/kubeplugin/scripts/kubeplugin
+1. Завантажте скріпт командою $wget https://raw.githubusercontent.com/tkachovua/kubeplugin/main/scripts/kubeplugin
 
 2. Зробіть файл виконуванним командою $chmod +x ./kubeplugin 
 
